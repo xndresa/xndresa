@@ -11,7 +11,11 @@
 
 
 
- ![xndresa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xndresa&theme=tokyonight&hide_border=true)
+
+
+ ![xndresa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xndresa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+
 
 
 <div> 
