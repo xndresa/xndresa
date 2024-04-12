@@ -1,4 +1,4 @@
-<div align="center"> Olá! Sejam bem vindo ao meu perfil ❤️ </div>
+<div align="center"> Olá! Sejam bem vindos ao meu perfil ❤️ </div>
 
 <p align="center">
 <img width= "200" height= "200" src=https://github.com/xndresa/xndresa/assets/141786353/ae876526-4e6e-49c1-aa05-409ece030eee>
