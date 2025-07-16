@@ -1,3 +1,5 @@
+<h1 align="center">Olá👋 Bem-vindo(a)!</h1>
+
 <div align="center">
   <img height="150" src="https://i.pinimg.com/736x/91/8f/15/918f15e196833c24fe2cda782feae0c6.jpg"  />
 </div>
@@ -19,18 +21,34 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=xndresa.xndresa&"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
 </div>
 
-# 💻 Habilidades:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+###
 
-# 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=xndresa&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=xndresa&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xndresa&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=xndresa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=xndresa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-## 🏆 GitHub Troféus:
-![](https://github-profile-trophy.vercel.app/?username=xndresa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xndresa/xndresa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xndresa/xndresa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xndresa/xndresa/output/pacman-contribution-graph.svg">
+</picture>
+
+###
